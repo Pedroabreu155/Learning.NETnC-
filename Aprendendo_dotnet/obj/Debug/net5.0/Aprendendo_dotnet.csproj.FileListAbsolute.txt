@@ -1,0 +1,16 @@
+C:\Users\Pedro\Desktop\Área de Trabalho\Projetos\Curso .net e C#\Aprendendo_dotnet\bin\Debug\net5.0\Aprendendo_dotnet.exe
+C:\Users\Pedro\Desktop\Área de Trabalho\Projetos\Curso .net e C#\Aprendendo_dotnet\bin\Debug\net5.0\Aprendendo_dotnet.deps.json
+C:\Users\Pedro\Desktop\Área de Trabalho\Projetos\Curso .net e C#\Aprendendo_dotnet\bin\Debug\net5.0\Aprendendo_dotnet.runtimeconfig.json
+C:\Users\Pedro\Desktop\Área de Trabalho\Projetos\Curso .net e C#\Aprendendo_dotnet\bin\Debug\net5.0\Aprendendo_dotnet.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\Área de Trabalho\Projetos\Curso .net e C#\Aprendendo_dotnet\bin\Debug\net5.0\Aprendendo_dotnet.dll
+C:\Users\Pedro\Desktop\Área de Trabalho\Projetos\Curso .net e C#\Aprendendo_dotnet\bin\Debug\net5.0\ref\Aprendendo_dotnet.dll
+C:\Users\Pedro\Desktop\Área de Trabalho\Projetos\Curso .net e C#\Aprendendo_dotnet\bin\Debug\net5.0\Aprendendo_dotnet.pdb
+C:\Users\Pedro\Desktop\Área de Trabalho\Projetos\Curso .net e C#\Aprendendo_dotnet\obj\Debug\net5.0\Aprendendo_dotnet.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Área de Trabalho\Projetos\Curso .net e C#\Aprendendo_dotnet\obj\Debug\net5.0\Aprendendo_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Área de Trabalho\Projetos\Curso .net e C#\Aprendendo_dotnet\obj\Debug\net5.0\Aprendendo_dotnet.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Área de Trabalho\Projetos\Curso .net e C#\Aprendendo_dotnet\obj\Debug\net5.0\Aprendendo_dotnet.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Área de Trabalho\Projetos\Curso .net e C#\Aprendendo_dotnet\obj\Debug\net5.0\Aprendendo_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Área de Trabalho\Projetos\Curso .net e C#\Aprendendo_dotnet\obj\Debug\net5.0\Aprendendo_dotnet.dll
+C:\Users\Pedro\Desktop\Área de Trabalho\Projetos\Curso .net e C#\Aprendendo_dotnet\obj\Debug\net5.0\ref\Aprendendo_dotnet.dll
+C:\Users\Pedro\Desktop\Área de Trabalho\Projetos\Curso .net e C#\Aprendendo_dotnet\obj\Debug\net5.0\Aprendendo_dotnet.pdb
+C:\Users\Pedro\Desktop\Área de Trabalho\Projetos\Curso .net e C#\Aprendendo_dotnet\obj\Debug\net5.0\Aprendendo_dotnet.genruntimeconfig.cache

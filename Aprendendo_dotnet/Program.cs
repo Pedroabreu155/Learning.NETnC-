@@ -6,7 +6,11 @@ namespace Aprendendo_dotnet
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int numeroDeVezes = 8;
+            for(int i = 0; i <= numeroDeVezes; i++){
+                Console.WriteLine($"Primeiro programa .NET {i}");
+            }
+
         }
     }
 }
